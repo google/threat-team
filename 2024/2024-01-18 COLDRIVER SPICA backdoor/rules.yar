@@ -1,7 +1,7 @@
 rule SPICA__Strings 
 {
     meta:
-        author = “Google TAG”
+        author = "Google TAG"
         description = "Rust backdoor using websockets for c2 and embedded decoy PDF"
         hash = "37c52481711631a5c73a6341bd8bea302ad57f02199db7624b580058547fb5a9"
 

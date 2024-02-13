@@ -1,0 +1,9 @@
+value,entity_type,description
+0f6b9d2ada67cebc8c0f03786c442c61c05cef5b92641ec4c1bdd8f5baeb2ee1,file,“Encrypted” PDF lure document first observed November 2022.
+A949ec428116489f5e77cefc67fea475017e0f50d2289e17c3eb053072adcf24,file,“Encrypted” PDF lure document first observed June 2023
+C97acea1a6ef59d58a498f1e1f0e0648d6979c4325de3ee726038df1fc2e831d,file,“Encrypted” PDF lure document first observed August 2023
+Ac270310b5410e7430fe7e36a079525cd8724b002b38e13a6ee6e09b326f4847,file,“Encrypted” PDF lure document first observed November 2023
+84523ddad722e205e2d52eedfb682026928b63f919a7bf1ce6f1ad4180d0f507,file,"SPICA ZIP file, hosted on cloud storage. Delivered to target after initial lure PDF"
+37c52481711631a5c73a6341bd8bea302ad57f02199db7624b580058547fb5a9,file,SPICA backdoor. Named “Proton-decrypter.exe”
+C97acea1a6ef59d58a498f1e1f0e0648d6979c4325de3ee726038df1fc2e831d,file,"SPICA lure document, likely to provide legitimacy to zip file."
+https://45.133.216.15:3000/ws,url,"C2, likely active around August and September 2023"

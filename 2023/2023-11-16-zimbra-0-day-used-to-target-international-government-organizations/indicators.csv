@@ -1,0 +1,5 @@
+value,entity_type,description
+https://obsorth.opwtjnpoc.ml/pQyMSCXWyBWJpIos.js,url,URL used to load email stealing framework if the user was logged into active Zimbra session
+https://applicationdevsoc.com/zimbraMalwareDefender/zimbraDefender.js,url,Winter Vivern (UNC4907) campaign in July 2023
+https://applicationdevsoc.com/tndgt/auth.js,url,Winter Vivern (UNC4907) campaign in July 2023
+ntcpk.org,hostname,Domain supporting exfil of stolen authentication token in August 2023

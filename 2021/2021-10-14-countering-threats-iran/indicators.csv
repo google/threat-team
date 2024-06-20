@@ -1,0 +1,24 @@
+value,entity_type,description
+5d3ff202f20af915863eee45916412a271bae1ea3a0e20988309c16723ce4da5/detection,file,Android app linked to APT35 in May 2020
+service-reset-password-moderate-digital.rf.gd,hostname,Phishing domain linked to phishing campaign linked to APT28 in 2021
+reset-service-identity-mail.42web.io,hostname,Phishing domain linked to phishing campaign linked to APT28 in 2021
+digital-email-software.great-site.net,hostname,Phishing domain linked to phishing campaign linked to APT28 in 2021
+https://sites.google.com/view/ty85yt8tg8-download-rtih4ithr/,hostname,Malicious Google Sites page linked to APT35 in 2021
+https://sites.google.com/view/user-id-568245/,hostname,Malicious Google Sites page linked to APT35 in 2021
+https://sites.google.com/view/hhbejfdwdhwuhscbsb-xscvhdvbc/,hostname,Malicious Google Sites page linked to APT35 in 2021
+https://www.dropbox.com/s/68y4vpfu8pc3imf/Iraq&Jewish.pdf,hostname,Malicious Dropbox url linked to APT35 in 2021
+nco2.live,hostname,Phishing domain linked to APT35 in 2021
+summit-files.com,hostname,Phishing domain linked to APT35 in 2021
+filetransfer.club,hostname,Phishing domain linked to APT35 in 2021
+continuetogo.me,hostname,Phishing domain linked to APT35 in 2021
+accessverification.online,hostname,Phishing domain linked to APT35 in 2021
+customers-verification-identifier.site,hostname,Phishing domain linked to APT35 in 2021
+service-activity-session.online,hostname,Phishing domain linked to APT35 in 2021
+identifier-service-review.site,hostname,Phishing domain linked to APT35 in 2021
+recovery-activity-identification.site,hostname,Phishing domain linked to APT35 in 2021
+review-session-confirmation.site,hostname,Phishing domain linked to APT35 in 2021
+recovery-service-activity.site,hostname,Phishing domain linked to APT35 in 2021
+verify-service-activity.site,hostname,Phishing domain linked to APT35 in 2021
+service-manager-notifications.info,hostname,Phishing domain linked to APT35 in 2021
+communication-shield.site,hostname,Android App C2 linked to APT35 in May 2020
+cdsa.xyz,hostname,Android App C2 linked to APT35 in May 2020

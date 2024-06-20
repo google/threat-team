@@ -1,0 +1,3 @@
+value,	entity_type,	description
+5094028a0afb4d4a3d8fa82b613c0e59d31450d6c75ed96ded02be1e9db8104f/detection,	file,	Malware sample using evasion technique observed in 2021 involving malformed code signatures that are treated as valid by Windows but are not able to be decoded or checked by OpenSSL code
+5c0ff7b23457078c9d0cbe186f1d05bfd573eb555baa1bf4a45e1b79c8c575db/detection,	file,	Variant malware sample using evasion technique observed in 2021 involving malformed code signatures that are treated as valid by Windows but are not able to be decoded or checked by OpenSSL code

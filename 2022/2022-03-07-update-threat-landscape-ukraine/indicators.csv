@@ -1,0 +1,10 @@
+value,entity_type,description
+id-unconfirmeduser.frge.io,hostname,Example credential phishing domain observed in 2022 during APT28 campaign
+hatdfg-rhgreh684.frge.io,hostname,Example credential phishing domain observed in 2022 during APT28 campaign
+ua-consumerpanel.frge.io,hostname,Example credential phishing domain observed in 2022 during APT28 campaign
+consumerspanel.frge.io,hostname,Example credential phishing domain observed in 2022 during APT28 campaign
+accounts.secure-ua.website,hostname,Example credential phishing domain observed in 2022 during Ghostwriter/UNC1151 campaign
+i.ua-passport.top,hostname,Example credential phishing domain observed in 2022 during Ghostwriter/UNC1151 campaign
+login.creditals-email.space,hostname,Example credential phishing domain observed in 2022 during Ghostwriter/UNC1151 campaign
+post.mil-gov.space,hostname,Example credential phishing domain observed in 2022 during Ghostwriter/UNC1151 campaign
+verify.rambler-profile.site,hostname,Example credential phishing domain observed in 2022 during Ghostwriter/UNC1151 campaign

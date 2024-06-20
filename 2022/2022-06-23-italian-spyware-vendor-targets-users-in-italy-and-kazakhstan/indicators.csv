@@ -1,0 +1,31 @@
+value,entity_type,description
+fe95855691cada4493641bc4f01eb00c670c002166d6591fe38073dd0ea1d001,file,Android implant tied to RCS Labs that disguised itself as a legitimate Samsung application in a campaign observed in 2022
+e38d7ba21a48ad32963bfe6cb0203afe0839eca9a73268a67422109da282eae3,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+243ea96b2f8f70abc127c8bc1759929e3ad9efc1dec5b51f5788e9896b6d516e,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+a98a224b644d3d88eed27aa05548a41e0178dba93ed9145250f61912e924b3e9,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+c26220c9177c146d6ce21e2f964de47b3dbbab85824e93908d66fa080e13286f,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+0759a60e09710321dfc42b09518516398785f60e150012d15be88bbb2ea788db,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+8ef40f13c6192bd8defa7ac0b54ce2454e71b55867bdafc51ecb714d02abfd1a,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+9146e0ede1c0e9014341ef0859ca62d230bea5d6535d800591a796e8dfe1dff9,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+6eeb683ee4674fd5553fdc2ca32d77ee733de0e654c6f230f881abf5752696ba,file,Malicious APK tied to RCS Labs in a campaign observed in 2022
+fb-techsupport.com,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+119-tim.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+133-tre.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+146-fastweb.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+155-wind.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+159-windtre.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+iliad.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+kena-mobile.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+mobilepays.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+my190.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+poste-it.info,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+ho-mobile.online,hostname,Drive-by download domain observed in campaign linked to RCSLab in 2022
+project1-c094e.appspot.com,hostname,C2 domain observed in campaign linked to RCSLab in 2022
+fintur-a111a.appspot.com,hostname,C2 domain observed in campaign linked to RCSLab in 2022
+safekeyservice-972cd.appspot.com,hostname,C2 domain observed in campaign linked to RCSLab in 2022
+comxdjajxclient.appspot.com,hostname,C2 domain observed in campaign linked to RCSLab in 2022
+comtencentmobileqq-6ffb5.appspot.com,hostname,C2 domain observed in campaign linked to RCSLab in 2022
+93.39.197.234,ip_address,C2 IP observed in campaign linked to RCSLab in 2022
+45.148.30.122,ip_address,C2 IP observed in campaign linked to RCSLab in 2022
+2.229.68.182,ip_address,C2 IP observed in campaign linked to RCSLab in 2022
+2.228.150.86,ip_address,C2 IP observed in campaign linked to RCSLab in 2022

@@ -1,0 +1,8 @@
+value,entity_type,description
+s.bit-li.com,hostname,Landing page used in campaign in 2022 that served CVE-2021-38000 exploit to deliver ALIEN to targeted Android users
+getupdatesnow.xyz,hostname,Exploit delivery server used in campaign in 2022 that served CVE-2021-38000 exploit to deliver ALIEN to targeted Android users
+shorten.fi,hostname,"Landing page used in 2022 campaign that served exploits for CVE-2021-37973, CVE-2021-37976 to deliver ALIEN to targeted Android users"
+contents-domain.com,hostname,"Exploit delivery and C2 server used in 2022 campaign that served exploits for CVE-2021-37973, CVE-2021-37976 to deliver ALIEN to targeted Android users"
+shorten.fi,hostname,"Landing page used in 2022 campaign that served Android 0-day exploit chain (CVE-2021-38003, CVE-2021-1048) to deliver ALIEN to targeted Android users"
+redirecting.page,hostname,"Exploit delivery and C2 server used in 2022 campaign that served Android 0-day exploit chain (CVE-2021-38003, CVE-2021-1048) to deliver ALIEN to targeted Android users"
+8e4edb1e07ebb86784f65dccb14ab71dfd72f2be1203765b85461e65b7ed69c6,file,Example ALIEN sample. ALIEN is a simple Android malware that loads the Android implant known as PREDATOR

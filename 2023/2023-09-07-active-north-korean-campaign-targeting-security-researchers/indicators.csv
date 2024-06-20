@@ -1,0 +1,12 @@
+value,entity_type,description
+50869d2a713acf406e160d6cde3b442fafe7cfe1221f936f3f28c4b9650a66e9,file,GetSymbol
+0eedfd4ab367cc0b6ab804184c315cc9ce2df5062cb2158338818f5fa8c0108e,file,GetSymbol
+2ee435bdafacfd7c5a9ea7e5f95be9796c4d9f18643ae04dca4510448214c03c,file,GetSymbol
+5977442321a693717950365446880058cc2585485ea582daa515719c1c21c5bd,file,GetSymbol
+www.blgbeach.com,hostname,C2
+23.106.215.105,ip_address,C2
+https://github.com/dbgsymbol/,url,Actor controlled Github profile associated with GetSymbol
+https://dbgsymbol.com,url,Actor controlled site associated with GetSymbol
+https://twitter.com/Paul091_,url,Actor-controlled Twitter / X profile
+https://infosec.exchange/@paul091_,url,Actor-controlled Mastodon account
+@paul354,username,Actor-controlled Wire account

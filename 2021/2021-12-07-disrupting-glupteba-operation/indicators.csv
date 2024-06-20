@@ -1,0 +1,26 @@
+value,entity_type,description
+1CgPCp3E9399ZFodMnTSSvaf5TpGiym2N1,btc_wallet,Bitcoin wallet address used in 2021 for Glupteba botnet’s C2 backup mechanism
+15y7dskU5TqNHXRtu5wzBpXdY5mT4RZNC6,btc_wallet,Bitcoin wallet address used in 2021 for Glupteba botnet’s C2 backup mechanism
+1CUhaTe3AiP9Tdr4B6wedoe9vNsymLiD97,btc_wallet,Bitcoin wallet address used in 2021 for Glupteba botnet’s C2 backup mechanism
+d8727a0e9da3e98b2e4e14ce5a6cf33ef26c6231562a3393ca465629d66503cf',aes_encryption_key,AES encryption key hard coded in binaries tied to Glubteba botnet in 2021
+1bd83f6ed9bb578502bfbb70dd150d286716e38f7eb293152a554460e9223536’,aes_encryption_key,AES encryption key hard coded in binaries tied to Glubteba botnet in 2021
+nisdably.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+runmodes.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+yturu.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+retoti.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+trumops.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+evocterm.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+iceanedy.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+ninhaine.com,hostname,Domain used by Glupteba botnet in 2021 for command and control
+anuanage.info,hostname,Domain used by Glupteba botnet in 2021 for command and control
+df84d3e83b4105f9178e518ca69e1a2ec3116d3223003857d892b8a6f64b05ba,file,Malware sample tied to Glubteba in 2021 campaign
+eae4968682064af4ae6caa7fff78954755537a348dce77998e52434ccf9258a2,file,Malware sample tied to Glubteba in 2021 campaign
+a2fd759ee5c470da57d8348985dc34348ccaff3a8b1f5fa4a87e549970eeb406,file,Malware sample tied to Glubteba in 2021 campaign
+d8a54d4b9035c95b8178d25df0c8012cf0eedc118089001ac21b8803bb8311f4,file,Malware sample tied to Glubteba in 2021 campaign
+c3f257224049584bd80a37c5c22994e2f6facace7f7fb5c848a86be03b578ee8,file,Malware sample tied to Glubteba in 2021 campaign
+8632d2ac6e01b6e47f8168b8774a2c9b5fafaa2470d4e780f46b20422bc13047,file,Malware sample tied to Glubteba in 2021 campaign
+03d2771d83c50cc5cdcbf530f81cffc918b71111b1492ccfdcefb355fb62e025,file,Malware sample tied to Glubteba in 2021 campaign
+e673ce1112ee159960f1b7fed124c108b218d6e5aacbcb76f93d29d61bd820ed,file,Malware sample tied to Glubteba in 2021 campaign
+8ef882a44344497ef5b784965b36272a27f8eabbcbcea90274518870b13007a0,file,Malware sample tied to Glubteba in 2021 campaign
+79616f9be5b583cefc8a48142f11ae8caf737be07306e196a83bb0c3537ccb3e,file,Malware sample tied to Glubteba in 2021 campaign
+db84d13d7dbba245736c9a74fc41a64e6bd66a16c1b44055bd0447d2ae30b614,file,Malware sample tied to Glubteba in 2021 campaign

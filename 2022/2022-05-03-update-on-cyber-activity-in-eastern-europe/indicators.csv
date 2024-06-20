@@ -1,18 +1,18 @@
 value,entity_type,description
-710faabf217a5cd3431670558603a45edb1e01970f2a8710514c2cc3dd8c2424,,. NET executable capable of stealing cookies and saved passwords from browsers. Distributed in 2022 campaign by APT28 via email attachments
-39d242660c6d5dbe97d5725bbfed0f583344d18840ccd902fffdd71af12e20ec,,. NET executable capable of stealing cookies and saved passwords from browsers. Distributed in 2022 campaign by APT28 via email attachments
-wkoinfo.webredirect.org,,Domain associated with 2022 Turla campaign
-jadlactnato.webredirect.org,,Domain associated with 2022 Turla campaign
-cache-dns.com,,COLDRIVER credential phishing domain used in 2022 campaign 
-docs-shared.com,,COLDRIVER credential phishing domain used in 2022 campaign 
-documents-forwarding.com,,COLDRIVER credential phishing domain used in 2022 campaign 
-documents-preview.com,,COLDRIVER credential phishing domain used in 2022 campaign 
-protection-link.online,,COLDRIVER credential phishing domain used in 2022 campaign 
-webresources.live,,COLDRIVER credential phishing domain used in 2022 campaign 
-noreply.accountsverify.top,,Ghostwriter credential phishing domain used in 2022 campaign 
-microsoftonline.email-verify.top,,Ghostwriter credential phishing domain used in 2022 campaign 
-lt-microsoftgroup.serure-email.online,,Ghostwriter credential phishing domain used in 2022 campaign 
-facebook.com-validation.top,,Ghostwriter credential phishing domain used in 2022 campaign 
-lt-meta.com-verification.top,,Ghostwriter credential phishing domain used in 2022 campaign 
-lt-facebook.com-verification.top,,Ghostwriter credential phishing domain used in 2022 campaign 
-secure@facebookgroup.lt,,Email address used by Ghostwriter in 2022 campaign 
+710faabf217a5cd3431670558603a45edb1e01970f2a8710514c2cc3dd8c2424,file,. NET executable capable of stealing cookies and saved passwords from browsers. Distributed in 2022 campaign by APT28 via email attachments
+39d242660c6d5dbe97d5725bbfed0f583344d18840ccd902fffdd71af12e20ec,file,. NET executable capable of stealing cookies and saved passwords from browsers. Distributed in 2022 campaign by APT28 via email attachments
+wkoinfo.webredirect.org,hostname,Domain associated with 2022 Turla campaign
+jadlactnato.webredirect.org,hostname,Domain associated with 2022 Turla campaign
+cache-dns.com,hostname,COLDRIVER credential phishing domain used in 2022 campaign 
+docs-shared.com,hostname,COLDRIVER credential phishing domain used in 2022 campaign 
+documents-forwarding.com,hostname,COLDRIVER credential phishing domain used in 2022 campaign 
+documents-preview.com,hostname,COLDRIVER credential phishing domain used in 2022 campaign 
+protection-link.online,hostname,COLDRIVER credential phishing domain used in 2022 campaign 
+webresources.live,hostname,COLDRIVER credential phishing domain used in 2022 campaign 
+noreply.accountsverify.top,hostname,Ghostwriter credential phishing domain used in 2022 campaign 
+microsoftonline.email-verify.top,hostname,Ghostwriter credential phishing domain used in 2022 campaign 
+lt-microsoftgroup.serure-email.online,hostname,Ghostwriter credential phishing domain used in 2022 campaign 
+facebook.com-validation.top,hostname,Ghostwriter credential phishing domain used in 2022 campaign 
+lt-meta.com-verification.top,hostname,Ghostwriter credential phishing domain used in 2022 campaign 
+lt-facebook.com-verification.top,hostname,Ghostwriter credential phishing domain used in 2022 campaign 
+secure@facebookgroup.lt,email,Email address used by Ghostwriter in 2022 campaign 

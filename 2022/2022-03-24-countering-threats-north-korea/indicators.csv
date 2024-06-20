@@ -1,0 +1,25 @@
+value,entity_type,description
+disneycareers.net,hostname,Attacker-owned fake job domain used in 2022 campaign targeting news media and IT companies
+find-dreamjob.com,hostname,Attacker-owned fake job domain used in 2022 campaign targeting news media and IT companies
+indeedus.org,hostname,Attacker-owned fake job domain used in 2022 campaign targeting news media and IT companies
+varietyjob.com,hostname,Attacker-owned fake job domain used in 2022 campaign targeting news media and IT companies
+ziprecruiters.org,hostname,Attacker-owned fake job domain used in 2022 campaign targeting news media and IT companies
+https://colasprint.com/about/about.asp,url,Exploit URL hosted on legitimate but compromised website used in 2022 campaign targeting news media and IT companies
+https://varietyjob.com/sitemap/sitemap.asp,url,Exploit URL used in 2022 campaign targeting news media and IT companies
+blockchainnews.vip,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+chainnews-star.com,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+financialtimes365.com,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+fireblocks.vip,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+gatexpiring.com,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+gbclabs.com,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+giantblock.org,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+humingbot.io,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+onlynova.org,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+teenbeanjs.com,hostname,Attacker-owned website used in 2022 campaign targeting cryptocurrency and Fintech organizations
+www.options-it.com,hostname,Compromised website (Feb 7 - Feb 9) used in 2022 campaign targeting cryptocurrency and Fintech organizations
+www.tradingtechnologies.com,hostname,Compromised website (Feb 7 - Feb 9) used in 2022 campaign targeting cryptocurrency and Fintech organizations
+https://financialtimes365.com/user/finance.asp,url,Exploit URL used in 2022 campaign targeting cryptocurrency and Fintech organizations
+https://gatexpiring.com/gate/index.asp,url,Exploit URL used in 2022 campaign targeting cryptocurrency and Fintech organizations
+https://humingbot.io/cdn/js.asp,url,Exploit URL used in 2022 campaign targeting cryptocurrency and Fintech organizations
+https://teenbeanjs.com/cloud/javascript.asp,url,Exploit URL used in 2022 campaign targeting cryptocurrency and Fintech organizations
+03a41d29e3c9763093aca13f1cc8bcc41b201a6839c381aaaccf891204335685,file,Example exploit kit used in 2022 campaign exploiting CVE-2022-0609

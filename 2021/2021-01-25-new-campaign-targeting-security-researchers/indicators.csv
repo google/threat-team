@@ -1,0 +1,55 @@
+value,entity_type,description
+https://blog.br0vvnn.io,url,Actor controlled research blog used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/br0vvnn,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/BrownSec3Labs,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/dev0exp,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/djokovic808,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/henya290,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/james0x40,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/m5t0r,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/mvp4p3r,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/tjrim91,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://twitter.com/z0x55g,url,Actor controlled Twitter profile used in 2020 - 2021 campaign targeting security researchers
+https://www.linkedin.com/in/billy-brown-a6678b1b8/,url,Actor controlled LinkedIn profile used in 2020 - 2021 campaign targeting security researchers
+https://www.linkedin.com/in/guo-zhang-b152721bb/,url,Actor controlled LinkedIn profile used in 2020 - 2021 campaign targeting security researchers
+https://www.linkedin.com/in/hyungwoo-lee-6985501b9/,url,Actor controlled LinkedIn profile used in 2020 - 2021 campaign targeting security researchers
+https://www.linkedin.com/in/linshuang-li-aa696391bb/,url,Actor controlled LinkedIn profile used in 2020 - 2021 campaign targeting security researchers
+https://www.linkedin.com/in/rimmer-trajan-2806b21bb/,url,Actor controlled LinkedIn profile used in 2020 - 2021 campaign targeting security researchers
+https://keybase.io/zhangguo,url,Actor controlled Keybase profile used in 2020 - 2021 campaign targeting security researchers
+https://t.me/james50d,url,Actor controlled Telegram profile used in 2020 - 2021 campaign targeting security researchers
+4c3499f3cc4a4fdc7e67417e055891c78540282dccc57e37a01167dfe351b244,file,VS Project DLL used in 2020 - 2021 campaign targeting security researchers
+68e6b9d71c727545095ea6376940027b61734af5c710b2985a628131e47c6af7,file,VS Project DLL used in 2020 - 2021 campaign targeting security researchers
+25d8ae4678c37251e7ffbaeddc252ae2530ef23f66e4c856d98ef60f399fa3dc,file,VS Project Dropped DLL used in 2020 - 2021 campaign targeting security researchers
+a75886b016d84c3eaacaf01a3c61e04953a7a3adf38acf77a4a2e3a8f544f855,file,VS Project Dropped DLL used in 2020 - 2021 campaign targeting security researchers
+a4fb20b15efd72f983f0fb3325c0352d8a266a69bb5f6ca2eba0556c3e00bd15,file,Service DLL used in 2020 - 2021 campaign targeting security researchers
+angeldonationblog.com,hostname,Attacker-owned C2 domain used in 2020 - 2021 campaign targeting security researchers
+codevexillium.org,hostname,Attacker-owned C2 domain used in 2020 - 2021 campaign targeting security researchers
+investbooking.de,hostname,Attacker-owned C2 domain used in 2020 - 2021 campaign targeting security researchers
+krakenfolio.com,hostname,Attacker-owned C2 domain used in 2020 - 2021 campaign targeting security researchers
+opsonew3org.sg,hostname,Attacker-owned C2 domain used in 2020 - 2021 campaign targeting security researchers
+transferwiser.io,hostname,Attacker-owned C2 domain used in 2020 - 2021 campaign targeting security researchers
+transplugin.io,hostname,Attacker-owned C2 domain used in 2020 - 2021 campaign targeting security researchers
+trophylab.com,hostname,Legitimate but compromised C2 domain used in 2020 - 2021 campaign targeting security researchers
+www.colasprint.com,hostname,Legitimate but compromised C2 domain used in 2020 - 2021 campaign targeting security researchers
+www.dronerc.it,hostname,Legitimate but compromised C2 domain used in 2020 - 2021 campaign targeting security researchers
+www.edujikim.com,hostname,Legitimate but compromised C2 domain used in 2020 - 2021 campaign targeting security researchers
+www.fabioluciani.com,hostname,Legitimate but compromised C2 domain used in 2020 - 2021 campaign targeting security researchers
+https://angeldonationblog.com/image/upload/upload.php,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://codevexillium.org/image/download/download.asp,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://investbooking.de/upload/upload.asp,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://transplugin.io/upload/upload.asp,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://www.dronerc.it/forum/uploads/index.php,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://www.dronerc.it/shop_testbr/Core/upload.php,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://www.dronerc.it/shop_testbr/upload/upload.php,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://www.edujikim.com/intro/blue/insert.asp,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+https://www.fabioluciani.com/es/include/include.asp,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+http://trophylab.com/notice/images/renewal/upload.asp,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+http://www.colasprint.com/_vti_log/upload.asp,url,C2 URL used in 2020 - 2021 campaign targeting security researchers
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\KernelConfig,regkey,Registry key used in 2020 - 2021 campaign targeting security researchers
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverConfig,regkey,Registry key used in 2020 - 2021 campaign targeting security researchers
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\SSL Update,regkey,Registry key used in 2020 - 2021 campaign targeting security researchers
+C:\Windows\System32\Nwsapagent.sys,filepath,File path used in 2020 - 2021 campaign targeting security researchers
+C:\Windows\System32\helpsvc.sys,filepath,File path used in 2020 - 2021 campaign targeting security researchers
+C:\ProgramData\USOShared\uso.bin,filepath,File path used in 2020 - 2021 campaign targeting security researchers
+C:\ProgramData\VMware\vmnat-update.bin,filepath,File path used in 2020 - 2021 campaign targeting security researchers
+C:\ProgramData\VirtualBox\update.bin,filepath,File path used in 2020 - 2021 campaign targeting security researchers

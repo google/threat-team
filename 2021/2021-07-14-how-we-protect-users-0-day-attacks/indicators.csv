@@ -1,0 +1,20 @@
+value,entity_type,description
+111.90.146.198,hostname,IP used in 2021 campaign linked to Russian government-backed attackers that exploited CVE-​2021-1879
+656d19186795280a068fcb97e7ef821b55ad3d620771d42ed98d22ee3c635e67/detection,file,Malicious Office document used in 2021 campaign targeting users in Armenia. The file that loaded web content within Internet Explorer to exploit CVE-2021-33742
+851bf4ab807fc9b29c9f6468c8c89a82b8f94e40474c6669f105bce91f278fdb/detection,file,Malicious Office document used in 2021 campaign targeting users in Armenia. The file that loaded web content within Internet Explorer to exploit CVE-2021-33742
+armenpress.org,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+armlur.org,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+armradio.org,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+armtimes.net,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+armtimes.org,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+asbares.com,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+hetq.org,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+hraparak.org,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+http://db-control-uplink.com/eFe1J00hISDe9Zw/gzHvIOlHpIXB,hostname,Unique URL serving ​​CVE-2021-33742 Internet Explorer exploit used in 2021 campaign targeting users in Armenia
+http://kidone.xyz/VvE0yYArmvhyTl/GzV,hostname,Unique URL serving ​​CVE-2021-33742 Internet Explorer exploit used in 2021 campaign targeting users in Armenia
+http://lioiamcount.com/IsnoMLgankYg6/EjlYIy7cdFZFeyFqE4IURS1,hostname,Unique URL serving ​​CVE-2021-33742 Internet Explorer exploit used in 2021 campaign targeting users in Armenia
+lragir.org,hostname,Attacker-controlled domain used in 2021 campaign targeting users in Armenia that exploited CVE-2021-21166 and ​​CVE-2021-30551
+supportcdn.web.app,hostname,Domain used in 2021 campaign linked to Russian government-backed attackers that exploited CVE-​2021-1879
+vegmobile.com,hostname,Domain used in 2021 campaign linked to Russian government-backed attackers that exploited CVE-​2021-1879
+wordzmncount.com,hostname,Infrastructure related to 2021 campaign that exploited CVE-2021-33742  and targeted users in Armenia
+workaj.com,hostname,Infrastructure related to 2021 campaign that exploited CVE-2021-33742  and targeted users in Armenia

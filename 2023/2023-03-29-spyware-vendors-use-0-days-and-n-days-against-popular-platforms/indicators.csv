@@ -1,0 +1,11 @@
+value,entity_type,description
+https://cdn.cutlink.site/p/uu6ekt,url,Landing page in campaign that delivered exploits for CVE-2022-42856; CVE-2022-4135
+https://api.cutlink.site/api/s/N0NBL8/,url,Android exploit chain in campaign that delivered exploits for CVE-2022-42856; CVE-2022-4135
+https://api.cutlink.site/api/s/3PU970/,url,iOS exploit chain in campaign that delivered exploits for CVE-2022-42856; CVE-2022-4135
+https://imjustarandomsite.3utilities.com,url,Exploit delivery server in campaign that delivered exploits for CVE-2022-42856; CVE-2022-4135
+www.sufficeconfigure.com,hostname,Landing page and exploit delivery server in campaign delivering exploit chain against Samsung Internet Browser (CVE-2022-4262; CVE-2023-0266)
+www.anglesyen.org,hostname,Malware C2 in campaign delivering exploit chain against Samsung Internet Browser (CVE-2022-4262; CVE-2023-0266)
+sys.brand.note,android_system_property,Android system properties that may indicate signs of exploitation
+sys.brand.notes,android_system_property,Android system properties that may indicate signs of exploitation
+sys.brand.doc,android_system_property,Android system properties that may indicate signs of exploitation
+/data/local/tmp/dropbox,filepath,Directory on mobile device that may indicate signs of infection

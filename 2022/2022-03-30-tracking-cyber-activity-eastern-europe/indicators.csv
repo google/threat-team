@@ -1,0 +1,15 @@
+value,entity_type,description
+5.188.108.119,ip_address,IP address used in 2022 Curious Gorge campaign
+91.216.190.58,ip_address,IP address used in 2022 Curious Gorge campaign
+103.27.186.23,ip_address,IP address used in 2022 Curious Gorge campaign
+114.249.31.171,ip_address,IP address used in 2022 Curious Gorge campaign
+45.154.12.167,ip_address,IP address used in 2022 Curious Gorge campaign
+protect-link.online,hostname,COLDRIVER credential phishing domain observed in 2022
+drive-share.live,hostname,COLDRIVER credential phishing domain observed in 2022
+protection-office.live,hostname,COLDRIVER credential phishing domain observed in 2022
+proton-viewer.com,hostname,COLDRIVER credential phishing domain observed in 2022
+login-verification.top,hostname,Ghostwriter credential phishing domain observed in 2022
+login-verify.top,hostname,Ghostwriter credential phishing domain observed in 2022
+ua-login.top,hostname,Ghostwriter credential phishing domain observed in 2022
+secure-ua.space,hostname,Ghostwriter credential phishing domain observed in 2022
+secure-ua.top,hostname,Ghostwriter credential phishing domain observed in 2022

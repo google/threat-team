@@ -1,0 +1,28 @@
+value,entity_type,description
+cpcpipe.com,hostname,Domain used by FROZENBARENTS in late 2022 campaign targeting the energy sector
+cpcpipe.org,hostname,Domain used by FROZENBARENTS in late 2022 campaign targeting the energy sector
+104.156.149.126,ip_address,IP used by FROZENBARENTS in late 2022 campaigns
+c80656fe59bdeb3e701d1f7eeaaba2ef673368b2c4947945f598e3e84a6cb7f8,file,Malicious ZIP observed in late 2022 FROZENBARENTS campaign
+telegram.org.security.ohsxy.com,hostname,Credential harvesting page spoofing Telegram. Observed in FROZENBARENTS campaigns
+telegram.org.4234e8234ad0f.24o1.com,hostname,Credential harvesting page spoofing Telegram. Observed in FROZENBARENTS campaigns
+ukroboronprom.com.ukr.pm,hostname,Credential harvesting page used by FROZENBARENTS in late 2022 campaign targeting Ukrainian defense industry
+181.119.30.71,ip_address,IP used by FROZENBARENTS in late 2022 campaigns
+45.76.31.101,ip_address,IP used by FROZENBARENTS in late 2022 campaigns
+45.56.93.83,ip_address,IP used by FROZENBARENTS in late 2022 campaigns
+45.124.86.84,ip_address,IP used by FROZENBARENTS in late 2022 campaigns
+https://t.me/s/bio_genie,url,URL associated with bio_genie information operations campaign
+https://biogenie.substack.com,url,URL associated with bio_genie information operations campaign
+setnewcreds.ukr.net.frge.io,hostname,Domain used by FROZENLAKE in XSS phishing against Ukranian users in early 2023
+ukrprivatesite.frge.io,hostname,Domain used by FROZENLAKE in XSS phishing against Ukranian users in early 2023
+robot-876.frge.io,hostname,Domain used by FROZENLAKE in XSS phishing against Ukranian users in early 2023
+85.240.182.23,ip_address,IP used by FROZENLAKE in XSS phishing against Ukranian users in early 2023
+68.76.150.97,ip_address,IP used by FROZENLAKE in XSS phishing against Ukranian users in early 2023
+passport-ua.site,hostname,PUSHCHA phishing domain observed in early 2023
+passport-log.online,hostname,PUSHCHA phishing domain observed in early 2023
+meta-l.space,hostname,PUSHCHA phishing domain observed in early 2023
+support@passport-ua.online,email,Email address observed in PUSHCHA phishing campaigns in early 2023
+openai@chatgpt4beta.com,email,Email address used in Cuba Ransomware / RomCom campaign
+chatgpt4beta.com,hostname,Domain used in Cuba Ransomware / RomCom campaign
+mod2023@masterofdigital.org,email,Email address used in Cuba Ransomware / RomCom campaign
+masterofdigital.org,hostname,Domain used in Cuba Ransomware / RomCom campaign
+4f0b12caa97e52f3d2edada9133f2e4a3442953d14c8ed12deb7219c722ea197,file,Malware sample observed in Cuba Ransomware / RomCom campaign

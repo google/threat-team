@@ -1,0 +1,44 @@
+value,entity_type,description
+accredit-navigation.online,hostname,DWP Phishing Kit related
+https://n9.cl/4xgro,url,DWP Phishing Kit related
+panel-short-check.live,hostname,GCollection Phishing Kit related
+check-pabnel-status.live,hostname,GCollection Phishing Kit related
+meetroomonlin1925.w3spaces.com,hostname,GCollection Phishing Kit related
+smaaaal.cfd,hostname,GCollection Phishing Kit related
+click-choose-figured.cfd,hostname,GCollection Phishing Kit related
+short-ion-per.live,hostname,GCollection Phishing Kit related
+checking-paneling.live,hostname,GCollection Phishing Kit related
+https://panel-short-check.live/PhyfkFQX,url,GCollection Phishing Kit related
+https://check-pabnel-status.live/Gcollection/Ref/CkliPwaM,url,GCollection Phishing Kit related
+https://check-pabnel-status.live/Gcollection/Password,url,GCollection Phishing Kit related
+https://panel-short-check.live/ZZqt3LYD,url,GCollection Phishing Kit related
+https://check-pabnel-status.live/Lcollection/Ref/F53OQQkE,url,GCollection Phishing Kit related
+https://check-pabnel-status.live/Lcollection/Password,url,GCollection Phishing Kit related
+https://meetroomonlin1925.w3spaces.com/,url,GCollection Phishing Kit related
+https://smaaaal.cfd/Wp59tqKU,url,GCollection Phishing Kit related
+https://click-choose-figured.cfd/Gallery/Ref/FSaEM5gG,url,GCollection Phishing Kit related
+https://click-choose-figured.cfd/Gallery/Password,url,GCollection Phishing Kit related
+https://short-ion-per.live/08EFNZ1,url,GCollection Phishing Kit related
+https://checking-paneling.live/aliasauthG/Password,url,GCollection Phishing Kit related
+https://checking-paneling.live/aliasauthG/autoref/vNSX6c2m,url,GCollection Phishing Kit related
+understandingthewar.org,hostname,APT42 Phishing domain
+brookings.email,hostname,APT42 Phishing domain
+sharedrive.webredirect.org,hostname,APT42 Phishing URL
+visioneditor.loseyourip.com,hostname,APT42 Phishing domain
+s3api.shop,hostname,APT42 Phishing domain
+https://sharedrive.webredirect.org/Khn/shoaGzA/cGNt/dMPaV/kvvhK,url,APT42 Phishing URL
+https://firebasestorage.googleapis.com/v0/b/share-box-5f395.appspot.com/o/onedrive-qrty45.html,url,APT42 Phishing URL
+https://visioneditor.loseyourip.com,url,APT42 Phishing URL
+https://s3api.shop/api/,url,APT42 Phishing URL
+c67cd544a112cab1bb75b3c44df4caf2045ef0af51de9ece11261d6c504add32,file,NEWSTERMINAL
+bc2597ce09987022ff0498c6710a9b51a1a47ed8082ac044be2838b384157527,file,OFFICEFUEL
+baac058ddfc96c8aea8c0057077505f0ad3ff20311d999886fed549924404849,file,OFFICEFUEL
+0180f4f29c550aa1ffaa21af51711b29de99fb1d7c932d008a0e9356ae8a7d60,file,FUELDUMP
+f83e2b3be2e6db20806a4b9b216edc7508fa81ce60bf59436d53d3ae435b6060,file,FUELDUMP
+82ae2eb470a5a16ca39ec84b387294eaa3ae82e5ada4b252470c1281e1f31c0a ,file,FUELDUMP
+89c1d1b61d7f863f8a651726e29f2ae3de7958f36b49a756069021817947d06c ,file,FUELDUMP
+c3486133783379e13ed37c45dc6645cbee4c1c6e62e7988722931eef99c8eaf3,file,GORBLE PS - LNK
+33a61ff123713da26f45b399a9828e29ad25fbda7e8994c954d714375ef92156,file,GORBLE PS - Stage 1
+4ac088bf25d153ec2b9402377695b15a28019dc8087d98bd34e10fed3424125f,file,GORBLE PS - Stage 2
+49.13.194.118,ip_address,C2 - OFFICEFUEL/FUELDUMP
+91.107.150.184,ip_address,C2 - OFFICEFUEL/FUELDUMP

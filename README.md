@@ -1,4 +1,4 @@
-# Google Threat Intelligence 
+# Google Threat Intelligence Group
 
 This repository contains indicators of compromise (IoCs) related to public blog posts and reports published by Google. IOCs are organized by year, and each folder relates to a specific blog post or report. 
 

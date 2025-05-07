@@ -1,0 +1,14 @@
+value,entity_type,description
+13f7599c94b9d4b028ce02397717a1282a46f07b9d3e2f8f2b3213fa8884b029,file,Stage 1: Fake CAPTCHA page - loads PowerShell to clipboard
+4c7accba35edd646584bb5a40ab78f963de45e5fc816e62022cd7ab1b01dae9c,file,Stage 2: Device evasion and stage 3 loader
+6b85d707c23d68f9518e757cc97adb20adc8accb33d0d68faf1d8d56d7840816,file,Stage 3: Retrieve and decode final payload - contains key “Ah90pE3b”
+3233668d2e4a80b17e6357177b53539df659e55e06ba49777d0d5171f27565dd,file,Decoder script - contains key “4z7Klx1V”
+6bc411d562456079a8f1e38f3473c33ade73b08c7518861699e9863540b64f9a,file,Final payload - encoded
+28a0596b9c62b7b7aca9cac2a07b067109f27d327581a60e8cb4fab92f8f4fa9,file,Final payload - decoded
+b55cdce773bc77ee46b503dbd9430828cc0f518b94289fbfa70b5fbb02ab1847,file,Binary that executes LOSTKEYS from December 2023
+02ce477a07681ee1671c7164c9cc847b01c2e1cd50e709f7e861eaab89c69b6f,file,Binary that executes LOSTKEYS from December 2023
+8af28bb7e8e2f663d4b797bf3ddbee7f0a33f637a33df9b31fbb4c1ce71b2fee,file,LOSTKEYS from December 2023
+cloudmediaportal.com,hostname,C2
+njala.dev,hostname,C2 from December 2023
+165.227.148.68,ip_address,C2
+80.66.88.67,ip_address,C2 from December 2023

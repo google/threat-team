@@ -1,9 +1,7 @@
-rule MAL_G_APT_Backdoor_BRICKSTORM_3 {
+rule G_APT_Backdoor_BRICKSTORM_3 {
    meta:
-      description = "Detects BRICKSTORM backdoor used by APT group UNC5221 (China Nexus)"
-      author = "Google Threat Intelligence Group (GTIG) (modified by Florian Roth)"
+      author = "Google Threat Intelligence Group (GTIG)"
       date = "2025-09-25"
-      score = 75
       reference = "https://cloud.google.com/blog/topics/threat-intelligence/brickstorm-espionage-campaign"
       md5 = "931eacd7e5250d29903924c31f41b7e5"
    strings:

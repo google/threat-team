@@ -1,4 +1,4 @@
-rule G_Backdoor_BRICKSTORM_2 {
+rule G_Backdoor_BRICKSTORM_Obfuscated_2 {
 	meta:
 		author = "Mandiant"
 		date_created = "2025-07-21"
